@@ -1,0 +1,526 @@
+{
+  "frontend/src/app/(protected)/admin/access-log/page.tsx": {
+    "kind": "jsx",
+    "hash": "d7eb620bf5dbb0358b26bb6e5cae94c05f132dce94444c8f8bad843fe3fd5eac"
+  },
+  "frontend/src/app/(protected)/admin/audit/page.tsx": {
+    "kind": "jsx",
+    "hash": "939c961503c59e7bac769420a103b9fb92994b502a763c2b99d01c3f428d0809"
+  },
+  "frontend/src/app/(protected)/admin/dashboard/page.tsx": {
+    "kind": "jsx",
+    "hash": "53c51904c2f5f02b481d88a3ffaf05219da40d80d99140354b9887b572c0f3dd"
+  },
+  "frontend/src/app/(protected)/admin/design/page.tsx": {
+    "kind": "jsx",
+    "hash": "b93ac592eff4a5e97a4c2b3dc66bf6f48db2457f9b1b54eb0a2ceed506163891"
+  },
+  "frontend/src/app/(protected)/admin/guide/page.tsx": {
+    "kind": "jsx",
+    "hash": "02a679f0589599b5c5542e70f58cff9d3b4904528622b9e4798b0c64fdbadb26"
+  },
+  "frontend/src/app/(protected)/admin/institutions/page.tsx": {
+    "kind": "jsx",
+    "hash": "05ecb17c8d4c9acc043a18bea51f23f52994414caf19cc733083bd5d68aa239d"
+  },
+  "frontend/src/app/(protected)/admin/layout.tsx": {
+    "kind": "jsx",
+    "hash": "ca4bfb825703bc82d9958c4bd406c2d111f7bbae6a84f14ae5b6c4b17e2f26b0"
+  },
+  "frontend/src/app/(protected)/admin/users/page.tsx": {
+    "kind": "jsx",
+    "hash": "06bdafc4be9af8a55a03e1b3b1d447d66660671b539459d7897a74d34dd982e2"
+  },
+  "frontend/src/app/(protected)/admin/[...path]/page.tsx": {
+    "kind": "jsx",
+    "hash": "d6192eae31d572590996127b22bfc07990ea714bc9f737fe6abf9afc53e43000"
+  },
+  "frontend/src/app/(protected)/client-profile/layout.tsx": {
+    "kind": "jsx",
+    "hash": "cb3cda87becc81dbdddb88ca4bc073ebf26be71978f1a471a0bed9c56e96589c"
+  },
+  "frontend/src/app/(protected)/client-profile/[id]/page.tsx": {
+    "kind": "jsx",
+    "hash": "5ab7bf91ef270a7030f55462826839bc32ae72e3c31f9b150a0774c161af2de2"
+  },
+  "frontend/src/app/(protected)/customer/access-log/page.tsx": {
+    "kind": "jsx",
+    "hash": "d7eb620bf5dbb0358b26bb6e5cae94c05f132dce94444c8f8bad843fe3fd5eac"
+  },
+  "frontend/src/app/(protected)/customer/audit/page.tsx": {
+    "kind": "jsx",
+    "hash": "939c961503c59e7bac769420a103b9fb92994b502a763c2b99d01c3f428d0809"
+  },
+  "frontend/src/app/(protected)/customer/consents/page.tsx": {
+    "kind": "jsx",
+    "hash": "399a326ecca9469043149cfe12f4c61fae9147ed7a31f3882dde108c163204aa"
+  },
+  "frontend/src/app/(protected)/customer/dashboard/page.tsx": {
+    "kind": "jsx",
+    "hash": "9162a1284a3b8f40a4f553ff37223faa5d2e765121273c68c4f05bf496507567"
+  },
+  "frontend/src/app/(protected)/customer/design/page.tsx": {
+    "kind": "jsx",
+    "hash": "b93ac592eff4a5e97a4c2b3dc66bf6f48db2457f9b1b54eb0a2ceed506163891"
+  },
+  "frontend/src/app/(protected)/customer/documents/page.tsx": {
+    "kind": "jsx",
+    "hash": "4f2f882c3eacf2e2ab5661ad31dbd03d1dcd573a6eba2590a636eb0205113de0"
+  },
+  "frontend/src/app/(protected)/customer/guide/page.tsx": {
+    "kind": "jsx",
+    "hash": "02a679f0589599b5c5542e70f58cff9d3b4904528622b9e4798b0c64fdbadb26"
+  },
+  "frontend/src/app/(protected)/customer/layout.tsx": {
+    "kind": "jsx",
+    "hash": "abddb8f51264cba710aed0de93acd841230b0bdb24111c3cbe6ced0aef609095"
+  },
+  "frontend/src/app/(protected)/customer/profile/page.tsx": {
+    "kind": "jsx",
+    "hash": "0b657a6595e33cedcc95b6f6da75e487f60168b4a436b216a9e8ef908172f86e"
+  },
+  "frontend/src/app/(protected)/customer/risk-profile/page.tsx": {
+    "kind": "jsx",
+    "hash": "2cc067ed4e386493684aa1981c00d58a1d7eb6595f9133a2511f7bfd5971a46d"
+  },
+  "frontend/src/app/(protected)/customer/[...path]/page.tsx": {
+    "kind": "jsx",
+    "hash": "d6192eae31d572590996127b22bfc07990ea714bc9f737fe6abf9afc53e43000"
+  },
+  "frontend/src/app/(protected)/institution/access-log/page.tsx": {
+    "kind": "jsx",
+    "hash": "d7eb620bf5dbb0358b26bb6e5cae94c05f132dce94444c8f8bad843fe3fd5eac"
+  },
+  "frontend/src/app/(protected)/institution/audit/page.tsx": {
+    "kind": "jsx",
+    "hash": "939c961503c59e7bac769420a103b9fb92994b502a763c2b99d01c3f428d0809"
+  },
+  "frontend/src/app/(protected)/institution/dashboard/page.tsx": {
+    "kind": "jsx",
+    "hash": "33d38fc8c8a53b8a2ea50ac721cc4b28494a16c84335c09d3806a0f47e1336a2"
+  },
+  "frontend/src/app/(protected)/institution/design/page.tsx": {
+    "kind": "jsx",
+    "hash": "b93ac592eff4a5e97a4c2b3dc66bf6f48db2457f9b1b54eb0a2ceed506163891"
+  },
+  "frontend/src/app/(protected)/institution/guide/page.tsx": {
+    "kind": "jsx",
+    "hash": "02a679f0589599b5c5542e70f58cff9d3b4904528622b9e4798b0c64fdbadb26"
+  },
+  "frontend/src/app/(protected)/institution/invitations/page.tsx": {
+    "kind": "jsx",
+    "hash": "c6b3b57ae81870ddf9f7b9a86f84c8df059484e10d52438a402ac82be4dad1db"
+  },
+  "frontend/src/app/(protected)/institution/layout.tsx": {
+    "kind": "jsx",
+    "hash": "cb3cda87becc81dbdddb88ca4bc073ebf26be71978f1a471a0bed9c56e96589c"
+  },
+  "frontend/src/app/(protected)/institution/lookup/page.tsx": {
+    "kind": "jsx",
+    "hash": "de677d15ca3a312318a3beade3e0fd8bc06689292f90490c0f3891f7690ce203"
+  },
+  "frontend/src/app/(protected)/institution/reports/page.tsx": {
+    "kind": "jsx",
+    "hash": "427fda174017a08d27900d9b5cca9dcc3a08dffa7dc535a43f10fa710319cd72"
+  },
+  "frontend/src/app/(protected)/institution/reviews/page.tsx": {
+    "kind": "jsx",
+    "hash": "79d3490ce4acc26ae99a3a0362b6f86dcac1405851f8eb3f1df91ae947a97749"
+  },
+  "frontend/src/app/(protected)/institution/reviews/[reviewId]/page.tsx": {
+    "kind": "jsx",
+    "hash": "f063fcdafe76d3516f7e24f0cde34ebe04e5b409d9e7ac9a55f26f99d850fbb1"
+  },
+  "frontend/src/app/(protected)/institution/settings/page.tsx": {
+    "kind": "jsx",
+    "hash": "dcd103ea311939bd41d09183340a1edafea18eee0e73a9d818b2f9d23bf11c48"
+  },
+  "frontend/src/app/(protected)/institution/[...path]/page.tsx": {
+    "kind": "jsx",
+    "hash": "d6192eae31d572590996127b22bfc07990ea714bc9f737fe6abf9afc53e43000"
+  },
+  "frontend/src/app/(protected)/layout.tsx": {
+    "kind": "jsx",
+    "hash": "ce3ff102ca5a7f61834cec37f07b15b4059812fa493ec2727ab95553ec861d84"
+  },
+  "frontend/src/app/(protected)/portals/page.tsx": {
+    "kind": "jsx",
+    "hash": "123066006fcc1c46fff0bc221c32ec74ee636031f08bd79cf55ddf5f03f6d069"
+  },
+  "frontend/src/app/auth/link-error/page.tsx": {
+    "kind": "jsx",
+    "hash": "0e05ad16d49e958b036f1fddb351d076bc3f64820ca85fcefcec8c7443ebe0b9"
+  },
+  "frontend/src/app/data-access/page.tsx": {
+    "kind": "jsx",
+    "hash": "d54fc65ab48b2fe6d3b7cdd72873e9be1795bdc4e6540c3417d494a28de6e5b4"
+  },
+  "frontend/src/styles/experience.css": {
+    "kind": "bytes",
+    "hash": "6ac688f3802f753244d24e820d4892128e1f40cd23a31bac533933c6aaf20d13"
+  },
+  "frontend/src/app/(auth)/forgot-password/page.tsx": {
+    "kind": "jsx",
+    "hash": "9981750b2cb8e207a9d5d1d277a38bf4ab151a1f4ecb69072628d0a34396422c"
+  },
+  "frontend/src/styles/globals.css": {
+    "kind": "bytes",
+    "hash": "152cdec6c6efb01349b0d5773424f87f314495b695bbee8a8679c0d989e507f6"
+  },
+  "frontend/src/app/help/page.tsx": {
+    "kind": "jsx",
+    "hash": "73eb6b870856b53911586e15770c18f05322877da3abca6d5aa6df6ada337f66"
+  },
+  "frontend/src/app/how-it-works/page.tsx": {
+    "kind": "jsx",
+    "hash": "311cff6b8f385c5bd8b844dfbb61d3e94b879da117f9df37dd503762f5521162"
+  },
+  "frontend/src/app/(auth)/institution/login/page.tsx": {
+    "kind": "jsx",
+    "hash": "5c0fa827d937d64f2bc18792e930ed6c5adf38be4b2bfda0b1dd95eb81e086bb"
+  },
+  "frontend/src/styles/institution.css": {
+    "kind": "bytes",
+    "hash": "c797610ed73d3d385b5d712c6c0e8033d64348bc1ec3de8c923b2b364b895e38"
+  },
+  "frontend/src/app/layout.tsx": {
+    "kind": "jsx",
+    "hash": "be4b6c707d4d6ba9817226dd775bb8424070ceb688ced22e87636e195aa9be25"
+  },
+  "frontend/src/app/(auth)/login/page.tsx": {
+    "kind": "jsx",
+    "hash": "2b107b86cf50c6b218a670ad734f59f5e6e01a8008cb82876129c4348e27062c"
+  },
+  "frontend/src/app/not-found.tsx": {
+    "kind": "jsx",
+    "hash": "223d7d3afea546462c3e255519d9278f5bc2788590a32402a7227f6cbe58fee4"
+  },
+  "frontend/src/app/(auth)/onboard/page.tsx": {
+    "kind": "jsx",
+    "hash": "a855459e919f408772ddc67dc67ade7bcc830c7922738c0bc6a05106250afd9c"
+  },
+  "frontend/src/app/page.tsx": {
+    "kind": "jsx",
+    "hash": "2b107b86cf50c6b218a670ad734f59f5e6e01a8008cb82876129c4348e27062c"
+  },
+  "frontend/src/styles/product.css": {
+    "kind": "bytes",
+    "hash": "4633f2300d06afcc190755907dd5276382ed32b63ae3a0f07e2e1a1e8a3b20b9"
+  },
+  "frontend/src/styles/public-structure.css": {
+    "kind": "bytes",
+    "hash": "b39254cc4fd21e2b7071bc62fe2a6b69e381e04a81bb884ab6184b2190b3659a"
+  },
+  "frontend/src/app/(auth)/register/complete/page.tsx": {
+    "kind": "jsx",
+    "hash": "7ff6c339f8d94437ddb8f24412ca58ad6b678033dc9df33ed3220d822030a3e4"
+  },
+  "frontend/src/app/(auth)/register/page.tsx": {
+    "kind": "jsx",
+    "hash": "fad2ae3305adf0483df7e18c79dbbb171aa27c6516b9d4e14f556a0e2b355818"
+  },
+  "frontend/src/app/(auth)/reset-password/page.tsx": {
+    "kind": "jsx",
+    "hash": "8273d482975ce72d9cc4ff74d6068ff5cded9420ab2b3fdbe0004c53a0220cac"
+  },
+  "frontend/src/components/features/admin/dashboard-page.tsx": {
+    "kind": "jsx",
+    "hash": "352c1ebcdd6df28956ad9b3c0eeaa112ccfb4f0108f0343fc609f739f25ac617"
+  },
+  "frontend/src/components/features/admin/institution-directory.tsx": {
+    "kind": "jsx",
+    "hash": "f0de60aec2e131e2a9c1b76a6c0b4996450b39f3b8f8c4846101d2566b812011"
+  },
+  "frontend/src/components/features/admin/institutions-page.tsx": {
+    "kind": "jsx",
+    "hash": "d6e7e04078d1ca6c302f7f07df13e6ee26cd99e765e0512aefbea7e4fd7f5d72"
+  },
+  "frontend/src/components/features/admin/user-registry.tsx": {
+    "kind": "jsx",
+    "hash": "904ac2d07957215f08d4588862dd1da1d5464534c9b044087278a392bf2e21f9"
+  },
+  "frontend/src/components/features/admin/users-page.tsx": {
+    "kind": "jsx",
+    "hash": "62ce47e3832dcc012fd1793792312f2b47b044c91b125b9733647ffecabc22d8"
+  },
+  "frontend/src/components/ui/account-fields.tsx": {
+    "kind": "jsx",
+    "hash": "6fe322777866bdcd2bc2f26e20395e6acf83879b924dc52d270345fcd23c6a24"
+  },
+  "frontend/src/components/features/auth/account-layout.tsx": {
+    "kind": "jsx",
+    "hash": "c898fd41671f707a45b764c8bc476830bca58eed9e51dc4edfb5fe3b26fb7e60"
+  },
+  "frontend/src/components/features/auth/account-link.tsx": {
+    "kind": "jsx",
+    "hash": "58779d0b39db98086c0fdd25f3972ae0f96b89baff4f418944f86f31adc43128"
+  },
+  "frontend/src/components/features/auth/account-success.tsx": {
+    "kind": "jsx",
+    "hash": "48a06f3bbd7e05f83777bd0b61cd3b1be31cbc5394dfbded8758a355e0cd87d2"
+  },
+  "frontend/src/components/features/auth/account-tabs.tsx": {
+    "kind": "jsx",
+    "hash": "a0aeac1344eb296b6d0d8ef5746e890a8c8146ff96218b4cd8675e7c2d1250e1"
+  },
+  "frontend/src/components/features/auth/forgot-password-page.tsx": {
+    "kind": "jsx",
+    "hash": "3cc6a85c2ec0c2dc67bc219a5f4777daacc6f9f162220587be649aca059bff6b"
+  },
+  "frontend/src/components/features/auth/invitation-page.tsx": {
+    "kind": "jsx",
+    "hash": "f14f35f80c075bb0589d4bc8ddf2d964c40fcf247700042b8b3d3f4d4ef4b3ec"
+  },
+  "frontend/src/components/features/auth/link-error-page.tsx": {
+    "kind": "jsx",
+    "hash": "2fb68540c48848619ac7657cf960c7e4d9d6208361de8082f93476c4f9e61b6a"
+  },
+  "frontend/src/components/features/auth/login-page.tsx": {
+    "kind": "jsx",
+    "hash": "2b52cb1393c7931b1a838d78f3077bfcfd208c6abc039d41e2e64b7868335ae5"
+  },
+  "frontend/src/components/features/auth/nationality-fields.tsx": {
+    "kind": "jsx",
+    "hash": "99beeb3dcc0349f467716bd46035ab3f590dfbcf57370c9551cddee7711c6497"
+  },
+  "frontend/src/components/features/auth/register-page.tsx": {
+    "kind": "jsx",
+    "hash": "935d645b172db2b33223f69e5a0ce3ed0c8478addc07eb1a3ae9d6dfa5f677a2"
+  },
+  "frontend/src/components/features/auth/registration-complete-page.tsx": {
+    "kind": "jsx",
+    "hash": "0cabe59f98bad51432be8188d9b8836257f7a1e6bfb72cc2ac2fd92da0d65c5d"
+  },
+  "frontend/src/components/features/auth/reset-password-page.tsx": {
+    "kind": "jsx",
+    "hash": "81aeddbf711c6d10cbee53a78080eb518a4d06dce3e0e379c50eb6bb9b4d35bd"
+  },
+  "frontend/src/components/features/customer/consent-dialog.tsx": {
+    "kind": "jsx",
+    "hash": "a23bf8914c61214f5bf8be1212b01dcdbc66fb3246f889b7946a19af97dcb2ca"
+  },
+  "frontend/src/components/features/customer/consents-page.tsx": {
+    "kind": "jsx",
+    "hash": "e4c6f083877426c684c55895d4418fef72b41b795270dd052cea4ae69e89c678"
+  },
+  "frontend/src/components/features/customer/dashboard-page.tsx": {
+    "kind": "jsx",
+    "hash": "5f07a3bcfa27888ad9a2a5fca4335a3c481f50066fcccb6738c31a0d978b3a0f"
+  },
+  "frontend/src/components/features/customer/document-upload-dialog.tsx": {
+    "kind": "jsx",
+    "hash": "2a29f5a254b7e7ce0a7a40e4681fbe604916526bb9c42f06131c6ca87327aa70"
+  },
+  "frontend/src/components/features/customer/documents-page.tsx": {
+    "kind": "jsx",
+    "hash": "13fdf00def1166875b8ab043b8eb4ee2ee0957bd0670e7bb52a331a2e713c909"
+  },
+  "frontend/src/components/features/customer/profile-overview.tsx": {
+    "kind": "jsx",
+    "hash": "66247c7e6a8160d5eeab06be56633c54745d27629fabfbceb0b1abc74e5e7261"
+  },
+  "frontend/src/components/features/customer/profile-page.tsx": {
+    "kind": "jsx",
+    "hash": "d0bdc39cb62d4f81c1f12aa93b53cc455b9ca858bb8cab9e8f82f0e448b4714c"
+  },
+  "frontend/src/components/features/customer/risk-profile-page.tsx": {
+    "kind": "jsx",
+    "hash": "8ca70739e950f8dc4821410d852c8545f650b79c9f9adf90ae178a53de53b0c4"
+  },
+  "frontend/src/components/features/institution/dashboard-page.tsx": {
+    "kind": "jsx",
+    "hash": "b872264380549ed962b95d2ab2be027ab279f854cc258542517f126f270f4a0d"
+  },
+  "frontend/src/components/features/institution/document-request-dialog.tsx": {
+    "kind": "jsx",
+    "hash": "6e8088b8b4b2338a25a835ee294754a6a89e11874b5ea2ee146c378e654ca106"
+  },
+  "frontend/src/components/features/institution/institution-overview.tsx": {
+    "kind": "jsx",
+    "hash": "2bd49e712598e9b4d80189ce48549fe5fce7a75cf24b2348a7b55b906b4db192"
+  },
+  "frontend/src/components/features/institution/invitations-page.tsx": {
+    "kind": "jsx",
+    "hash": "82505f04bd641859f98c3c05d89af70725f92d0e50f299f1be918a273703fc6a"
+  },
+  "frontend/src/components/features/institution/invitations.tsx": {
+    "kind": "jsx",
+    "hash": "714b282402d5b31a017c6751a387e5c2e22f4f119d7a030bb652fec73a984a4b"
+  },
+  "frontend/src/components/features/institution/lookup-page.tsx": {
+    "kind": "jsx",
+    "hash": "a8364ede7f08a8fe5e0974f79c016b4f7197a14417c8d5167df989259847d84f"
+  },
+  "frontend/src/components/features/institution/pack-manager.tsx": {
+    "kind": "jsx",
+    "hash": "9692ad8e1a583409eaf290b3d8f9fbe6f1be87c1aaa4e2af312767e9500ac9f9"
+  },
+  "frontend/src/components/features/institution/reports-page.tsx": {
+    "kind": "jsx",
+    "hash": "d25c8b630bc6144ce986a44d13cea7ae2a2bbb8c16b52ac79f25ee86d899dc49"
+  },
+  "frontend/src/components/features/institution/reports.tsx": {
+    "kind": "jsx",
+    "hash": "0f0bf894cb4dcae0b71b3b1539fdb4f0e58e3bf0c55aeb2a0175e4937a84cbd2"
+  },
+  "frontend/src/components/features/institution/review-decision-dialog.tsx": {
+    "kind": "jsx",
+    "hash": "cf2abcc8fc2a33511231a79e31ff9a34c040e9d7b582e258f544267e9f370293"
+  },
+  "frontend/src/components/features/institution/review-evidence.tsx": {
+    "kind": "jsx",
+    "hash": "7fafe79023f62183333b4216a6d98a62fc82f04402ba5cd6b71e0915e636c2b5"
+  },
+  "frontend/src/components/features/institution/review-page.tsx": {
+    "kind": "jsx",
+    "hash": "08207cb8904b007ad52940e3667640ccb13d6f3aefd1a6d0628879220eb20ff4"
+  },
+  "frontend/src/components/features/institution/review-table.tsx": {
+    "kind": "jsx",
+    "hash": "de0f600f4283513e32d0fabc612a0bcb0a122401927b2153b6922728236213d5"
+  },
+  "frontend/src/components/features/institution/reviews-page.tsx": {
+    "kind": "jsx",
+    "hash": "8b68e8357ae9e58daa20e6012fd9cc2b5451106a4995a48cfcb1f2effcd7f8ab"
+  },
+  "frontend/src/components/features/institution/settings-page.tsx": {
+    "kind": "jsx",
+    "hash": "d47cac44aef5d9256cacbf8dfbf1a485ff2c3815ff84c533439ffd796d8f85a8"
+  },
+  "frontend/src/components/features/institution/utility-bill-policy.tsx": {
+    "kind": "jsx",
+    "hash": "e40ec4afc4fffa57a5c4eb3e116a6bd35345a7b2d80c40b95b66891b4243fa79"
+  },
+  "frontend/src/components/layout/portal-layout.tsx": {
+    "kind": "jsx",
+    "hash": "8b2d3b919b2dbf4194fcbbae8df6017d02345968aecb50a637218078bc4b04f7"
+  },
+  "frontend/src/components/layout/portal-page.tsx": {
+    "kind": "jsx",
+    "hash": "7b226e26ebb556cff6b7a0c19a728f2b3c7c8a6ad7372a36ac47d69dfa8590aa"
+  },
+  "frontend/src/components/layout/workspace-gate.tsx": {
+    "kind": "jsx",
+    "hash": "f8f8b75b00f1fde00ea35ea83bb37767d99441eb9b932845c695446ec2389b7f"
+  },
+  "frontend/src/components/layout/workspace-header.tsx": {
+    "kind": "jsx",
+    "hash": "fa3530191a892362b180dcaca26f7d96f1c3e09d236cd4d568bea60b1a6b33e4"
+  },
+  "frontend/src/components/layout/workspace-loading.tsx": {
+    "kind": "jsx",
+    "hash": "df3c83b59e7b90493e0a7c68f20c9064e25e60a90e6285b9bd84053cf050c683"
+  },
+  "frontend/src/components/layout/workspace-sidebar.tsx": {
+    "kind": "jsx",
+    "hash": "0cc064902ea4b19c1a71643c74caffa72ea681e5900f239ac25a746494ab0605"
+  },
+  "frontend/src/components/features/public/data-access-page.tsx": {
+    "kind": "jsx",
+    "hash": "7673e0a1c7498a5a208ebd689402cf83a1362a2c48f1974acd1df8acd0a85ade"
+  },
+  "frontend/src/components/features/public/help-page.tsx": {
+    "kind": "jsx",
+    "hash": "2a683ac0976a274214b63b002b6092a4bd77213a102ea2db6b82336c1ed4936a"
+  },
+  "frontend/src/components/features/public/how-it-works-page.tsx": {
+    "kind": "jsx",
+    "hash": "4bef11efbfb54ca8880652cefa3838dd611f403cfcc7f9700aaca4871c0a87e2"
+  },
+  "frontend/src/components/features/public/resource-layout.tsx": {
+    "kind": "jsx",
+    "hash": "0630827105cdc8922d9b15b867a59b0abe8b455a932cc0f657c3043b0ab3bcb0"
+  },
+  "frontend/src/components/features/shared/activity-insights.tsx": {
+    "kind": "jsx",
+    "hash": "20b26fd4e20e1d7e1fac5800c91a5e3dbe17ef562a344eee6165d6968255fab5"
+  },
+  "frontend/src/components/features/shared/audit-page.tsx": {
+    "kind": "jsx",
+    "hash": "29ee84cfcba6915ab06026f1d2056f95921064a919a06732fc15b4dbaf5a2259"
+  },
+  "frontend/src/components/ui/confirmation-dialog.tsx": {
+    "kind": "jsx",
+    "hash": "46784d60d7adb31c3a218f239a7c4ccd99433c7c0b59bf25f5a1f1dd8b0f15f1"
+  },
+  "frontend/src/components/features/shared/design-overview.tsx": {
+    "kind": "jsx",
+    "hash": "fe6fd2c93a18bc27e3c9a6c38154932a5b049f3df9beb8735a40ebb686d6a38b"
+  },
+  "frontend/src/components/features/shared/design-page.tsx": {
+    "kind": "jsx",
+    "hash": "eaedebe6710f08c78c6e78cd4b02a01fb22d64be67ecff35bcfee324437bca11"
+  },
+  "frontend/src/components/features/shared/evidence-vault.tsx": {
+    "kind": "jsx",
+    "hash": "46c8e81dd1eef9c2f48261b95654c137dc8845533ecb53237434faf0fb72b5e7"
+  },
+  "frontend/src/components/features/shared/guide-page.tsx": {
+    "kind": "jsx",
+    "hash": "efe57c00e5b68afab9f8ff21a2025cb0802edb2371228b5107328c3c832308de"
+  },
+  "frontend/src/components/ui/interface.tsx": {
+    "kind": "jsx",
+    "hash": "66c6de331c0bfb2391a53b34f3258f68765a2515c6400114c99587b93f56c3ef"
+  },
+  "frontend/src/components/features/shared/portal-entry.tsx": {
+    "kind": "jsx",
+    "hash": "092e76ba3ec85b8dc2e96f7945bea29888dc6bed77f7ced9ea5f7c4010b4d1c0"
+  },
+  "frontend/src/components/features/shared/product-brand.tsx": {
+    "kind": "jsx",
+    "hash": "6ea0b97ddfdfde2f6b95fee4477de422144b57fa23ece151d8d16214e85d6197"
+  },
+  "frontend/src/components/features/shared/product-link.tsx": {
+    "kind": "jsx",
+    "hash": "23611199ad7b717a56e4d2751a5d00dcf19ba1144ec45d3013ca0a45e5d0d31d"
+  },
+  "frontend/src/components/features/shared/product-story.tsx": {
+    "kind": "jsx",
+    "hash": "84eef7b51370f5374d6a3b6cb17bad200524af58d27649cd2003e2b87b46b6d5"
+  },
+  "frontend/src/components/features/shared/recent-activity.tsx": {
+    "kind": "jsx",
+    "hash": "06faba2cd7571e5e85e905506c9b5c10ee4a3cb38691137858e80cf90401da23"
+  },
+  "frontend/src/components/features/shared/site-footer.tsx": {
+    "kind": "jsx",
+    "hash": "5950ca02c3a806f102915383deec82ab66f622d640e70acd006adf9727e38df6"
+  },
+  "frontend/src/components/features/shared/unavailable-page.tsx": {
+    "kind": "jsx",
+    "hash": "4ff33666ba61f4e49f7cd08fd568d788d2b6635f96ba482f5aba22de8243a75c"
+  },
+  "frontend/src/components/features/shared/workspace-picker.tsx": {
+    "kind": "jsx",
+    "hash": "7b63f3d57210657922fe81c9032c12f6d344b8b4e910df4e66bc288160fb4374"
+  },
+  "frontend/src/components/ui/workspace-ui.tsx": {
+    "kind": "jsx",
+    "hash": "e2b58e5afd413198d784fb04fb0fba63622fb55e1568fd31e48a1ecf2d660676"
+  },
+  "frontend/src/context/preview-context.tsx": {
+    "kind": "jsx",
+    "hash": "9d69c9d2edfbf47d54fedb0a6837db772d01009ebb27dbabf22737f5c9ab270c"
+  },
+  "frontend/src/context/workspace-context.tsx": {
+    "kind": "jsx",
+    "hash": "23f22e342a05e211b483226d0b1cf4c2b9f2922a56cf2f2d52181c75183be4cd"
+  },
+  "frontend/public/favicon.svg": {
+    "kind": "bytes",
+    "hash": "e6d2e59b7b5bbb0342e0fb496dfc262decbfe4426bbb7b047aec8d467d1dc6f7"
+  },
+  "frontend/public/fonts/IBM-Plex-Sans-OFL.txt": {
+    "kind": "bytes",
+    "hash": "d0283623ef57e722fd0eb688a8041589670c608ab780cd3612d06ba6f153d3fd"
+  },
+  "frontend/public/fonts/Manrope-OFL.txt": {
+    "kind": "bytes",
+    "hash": "d826ab6583b12c26807d8716a545bdbbb672df04f48608a364ba9efdbe501c30"
+  },
+  "frontend/public/fonts/Space-Mono-OFL.txt": {
+    "kind": "bytes",
+    "hash": "761663b7fb7667764f42243f9b1b2bcfccf41b158a7ab508bed4961dcf377eab"
+  }
+}
